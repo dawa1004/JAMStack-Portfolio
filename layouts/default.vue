@@ -75,7 +75,7 @@ main {
 .photo {
   min-width: 4rem; 
   min-height: 4rem;
-  background-image: url('/assets/icon.jpeg');
+  background-image: url('/icon.jpeg');
 }
 button:focus {
   outline: none;
