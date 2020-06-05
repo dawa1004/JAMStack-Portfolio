@@ -6,7 +6,10 @@
           <div class="bg-center bg-cover w-16 h-16 mr-2 rounded-full shadow photo"></div>
           <div>
             <h1 class="font-bold">Ryo's works</h1>
-            <p class="text-xs text-justify">各記事のタイトルをクリックで詳細ページに飛びます。カテゴリーとタグからソート、Worksアイコンで最初のページに戻ります。</p>
+            <p class="text-xs text-justify">作品置き場です。
+            Worksアイコンで一覧ページを表示します。
+            トップからは各記事のタイトルをクリックで詳細ページに飛びます。
+            カテゴリータグソート可能。</p>
           </div>
         </div>
         <div class="flex justify-around mt-5 text-xs">
